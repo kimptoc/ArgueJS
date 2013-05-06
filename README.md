@@ -42,6 +42,12 @@ Package is available through npm:
 $ npm install arguejs
 ```
 
+and then just include it:
+
+```javascript
+__ = require('arguejs');
+```
+
 ### Browser
 
 Include the ArgueJS browser build in your pages.
